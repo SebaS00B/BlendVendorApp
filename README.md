@@ -1,7 +1,8 @@
 ## BlendVendorApp
 
-Lightweight Console Application for a street vendor to sell blended fruit drinks and manage inventory. Implemented in Java with an object‑oriented design.
-
+Lightweight console application for a street vendor who sells fruit drinks and manages his inventory. 
+Implemented in Java with an object-oriented design. 
+Developed by Sebastián Burgos.
 
 ## Prerequisites
 
